@@ -7,6 +7,6 @@ input.invisible-input{
 	background: none;
 }
 
-.invisible-input:focus{
+input.invisible-input:focus{
 	outline: none;
 }
